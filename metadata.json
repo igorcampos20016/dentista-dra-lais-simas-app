@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Lais Simas - Dentista no Recreio",
+  "description": "Landing page de alta conversão da Dra. Lais Simas, dentista no Recreio dos Bandeirantes, Rio de Janeiro. Agende sua primeira consulta gratuita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
